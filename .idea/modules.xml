@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01 Introduccion/01 Introduccion.iml" filepath="$PROJECT_DIR$/01 Introduccion/01 Introduccion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02 Variables y Operadores/02 Variables y Operadores.iml" filepath="$PROJECT_DIR$/02 Variables y Operadores/02 Variables y Operadores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03 Estructuras de control/03 Estructuras de control.iml" filepath="$PROJECT_DIR$/03 Estructuras de control/03 Estructuras de control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Primer proyecto/Primer proyecto.iml" filepath="$PROJECT_DIR$/Primer proyecto/Primer proyecto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Programacion.iml" filepath="$PROJECT_DIR$/.idea/Programacion.iml" />
+    </modules>
+  </component>
+</project>
