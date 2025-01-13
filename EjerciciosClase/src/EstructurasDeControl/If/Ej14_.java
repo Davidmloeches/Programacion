@@ -4,6 +4,9 @@ package EstructurasDeControl.If;
  * */
 public class Ej14_ {
     public static void main(String[] args) {
+        char array[];
+
+        //con array y luego .math
 
     }
 }
